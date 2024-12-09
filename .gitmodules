@@ -1,3 +1,6 @@
 [submodule "wemixstaking"]
 	path = wemixstaking
 	url = https://github.com/wemixarchive/staking-contract.git
+[submodule "wemixswap"]
+	path = wemixswap
+	url = https://github.com/wemixarchive/weswap-periphery-contract.git
