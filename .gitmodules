@@ -1,0 +1,3 @@
+[submodule "wemixstaking"]
+	path = wemixstaking
+	url = https://github.com/wemixarchive/staking-contract.git
