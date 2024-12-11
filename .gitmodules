@@ -7,3 +7,6 @@
 [submodule "wonderstaking"]
 	path = wonderstaking
 	url = https://github.com/wemixarchive/Wonder-staking.git
+[submodule "zkAAEthGlobal"]
+	path = zkAAEthGlobal
+	url = https://github.com/ZK-AA/ethGlobal
